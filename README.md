@@ -1,4 +1,4 @@
-# gdcr-js
+# gdcr-dotnetcore
 Global day of code retreat dotnet core base
 
 # install deps
